@@ -1,0 +1,783 @@
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.026s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6189000
+ Average Throughput: 805.902 kbps
+ Delay : +466353542.0ns
+loss:2811000
+send:9000000
+received6189000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.965s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6154500
+ Average Throughput: 801.408 kbps
+ Delay : +467946910.0ns
+loss:2845500
+send:9000000
+received6154500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.484s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6177000
+ Average Throughput: 804.379 kbps
+ Delay : +467276404.0ns
+loss:2823000
+send:9000000
+received6177000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.062s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6223500
+ Average Throughput: 810.403 kbps
+ Delay : +468238104.0ns
+loss:2776500
+send:9000000
+received6223500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.136s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6223500
+ Average Throughput: 810.656 kbps
+ Delay : +466391264.0ns
+loss:2776500
+send:9000000
+received6223500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.105s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6172500
+ Average Throughput: 803.751 kbps
+ Delay : +467546910.0ns
+loss:2827500
+send:9000000
+received6172500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.996s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6207000
+ Average Throughput: 808.332 kbps
+ Delay : +466867116.0ns
+loss:2793000
+send:9000000
+received6207000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.051s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6181500
+ Average Throughput: 804.9 kbps
+ Delay : +468253929.0ns
+loss:2818500
+send:9000000
+received6181500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.063s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6213000
+ Average Throughput: 809.076 kbps
+ Delay : +469600669.0ns
+loss:2787000
+send:9000000
+received6213000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.012s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6163500
+ Average Throughput: 802.637 kbps
+ Delay : +467784610.0ns
+loss:2836500
+send:9000000
+received6163500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.170s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6174000
+ Average Throughput: 804.024 kbps
+ Delay : +467340362.0ns
+loss:2826000
+send:9000000
+received6174000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.095s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6201000
+ Average Throughput: 807.464 kbps
+ Delay : +466433247.0ns
+loss:2799000
+send:9000000
+received6201000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.118s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6139500
+ Average Throughput: 799.561 kbps
+ Delay : +468031435.0ns
+loss:2860500
+send:9000000
+received6139500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.092s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6186000
+ Average Throughput: 805.719 kbps
+ Delay : +467338665.0ns
+loss:2814000
+send:9000000
+received6186000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.142s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6186000
+ Average Throughput: 805.611 kbps
+ Delay : +466512177.0ns
+loss:2814000
+send:9000000
+received6186000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.149s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6163500
+ Average Throughput: 802.626 kbps
+ Delay : +467342856.0ns
+loss:2836500
+send:9000000
+received6163500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.091s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6195000
+ Average Throughput: 806.77 kbps
+ Delay : +466994221.0ns
+loss:2805000
+send:9000000
+received6195000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.964s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6157500
+ Average Throughput: 801.925 kbps
+ Delay : +467554494.0ns
+loss:2842500
+send:9000000
+received6157500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.155s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6153000
+ Average Throughput: 801.378 kbps
+ Delay : +468437758.0ns
+loss:2847000
+send:9000000
+received6153000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.971s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6159000
+ Average Throughput: 802.049 kbps
+ Delay : +466514595.0ns
+loss:2841000
+send:9000000
+received6159000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.000s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6346500
+ Average Throughput: 826.489 kbps
+ Delay : +437277210.0ns
+loss:2653500
+send:9000000
+received6346500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.873s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6174000
+ Average Throughput: 803.984 kbps
+ Delay : +466645093.0ns
+loss:2826000
+send:9000000
+received6174000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.535s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6198000
+ Average Throughput: 807.219 kbps
+ Delay : +465688110.0ns
+loss:2802000
+send:9000000
+received6198000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.568s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6171000
+ Average Throughput: 803.572 kbps
+ Delay : +467199243.0ns
+loss:2829000
+send:9000000
+received6171000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.580s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6201000
+ Average Throughput: 807.434 kbps
+ Delay : +468057324.0ns
+loss:2799000
+send:9000000
+received6201000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.867s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6171000
+ Average Throughput: 803.718 kbps
+ Delay : +467583075.0ns
+loss:2829000
+send:9000000
+received6171000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.299s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6174000
+ Average Throughput: 803.96 kbps
+ Delay : +468056391.0ns
+loss:2826000
+send:9000000
+received6174000
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.192s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6190500
+ Average Throughput: 806.149 kbps
+ Delay : +467277609.0ns
+loss:2809500
+send:9000000
+received6190500
+
+***********************************************
+Waf: Entering directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Waf: Leaving directory `/Users/YuzhuYan/Downloads/ns-allinone-3.24.1/ns-3.24.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2.637s)
+Access point created..
+Nodes created..
+Wifi 802.11b Phy & Channel configured..
+Control rate configured..
+SSID, ApDevice & StaDevice configured..
+Node mobility configured..
+ Node 1	 IP Address 10.1.1.1
+ Node 2	 IP Address 10.1.1.2
+ Node 3	 IP Address 10.1.1.3
+ Node 4	 IP Address 10.1.1.4
+ Node 5	 IP Address 10.1.1.5
+Internet Stack & IPv4 address configured..
+UDP traffic generated..
+Flow 1 (10.1.1.1 -> 10.1.1.6)
+ Tx Bytes: 9000000
+ Rx Bytes: 6186000
+ Average Throughput: 805.617 kbps
+ Delay : +467347927.0ns
+loss:2814000
+send:9000000
+received6186000
+
+***********************************************
